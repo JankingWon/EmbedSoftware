@@ -1,0 +1,1 @@
+"./Tiva_i2c.obj" "./main.obj" "./mpu6050.obj" "./tm4c123gh6pm_startup_ccs.obj" "./utils/uartstdio.obj" "./utils/ustdlib.obj" "D:/ti/TivaWare_C_Series-2.1.4.178/driverlib/ccs/Debug/driverlib.lib" "../tm4c123gh6pm.cmd" -llibc.a 
